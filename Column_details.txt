@@ -1,4 +1,4 @@
-Columns:
+Columns Details:
 
 pH: The pH level of the water.
 Hardness: Water hardness, a measure of mineral content.
